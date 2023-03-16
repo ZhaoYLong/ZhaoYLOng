@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am ZhaoYLong and Profile is in progress.
+I am Laqudee Des and Profile is in progress.
 
 <!--
-**ZhaoYLong/ZhaoYLOng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**laqudee/laqudee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
 
