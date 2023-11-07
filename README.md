@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Front End/Rust/Zig/Deep Learn
 - 👯 I’m looking to collaborate on Rust/Zig
 - 💬 Ask me about code
-- 📫 How to reach me: laqudee.des@gmail.com
+- 📫 How to reach me: laqudee.des@gmail.com or 2268678583@qq.com
 - 💰 technology stack: Vue/React/JavaScript/TypeScript/Vite/Rust/Zig
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
